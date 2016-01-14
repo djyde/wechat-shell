@@ -1,0 +1,37 @@
+<document>
+   <catalogTemplate>
+      <banner>
+         <title>Kenefe TV</title>
+      </banner>
+      <list>
+         <section>
+            <listItemLockup>
+               <title>关注</title>
+               <decorationLabel>4</decorationLabel>
+               <relatedContent>
+                  <grid>
+                     <section>
+                        <lockup>
+                           <img src="http://tu.rrsub.com:8014/ftp/2015/1030/e3505a6331bde71e96aa7e6fe72fb24f.jpg" width="250" height="376"/>
+                        </lockup>
+                        <lockup>
+                           <img src="http://tu.rrsub.com:8014/ftp/2015/0724/962bde18cc50b7f716386128aff57747.jpg" width="250" height="376"/>
+                        </lockup>
+                        <lockup>
+                           <img src="http://tu.rrsub.com:8014/ftp/2015/1006/baaad8d8cac967ac3cf3eff9eda3bb47.jpg" width="250" height="376"/>
+                        </lockup>
+                        <lockup>
+                           <img src="http://tu.rrsub.com:8014/ftp/2015/0918/dda80c805bd77a9dd7704b5d7aacf5bd.jpg" width="250" height="376"/>
+                        </lockup>
+                     </section>
+                  </grid>
+               </relatedContent>
+            </listItemLockup>
+            <listItemLockup>
+               <title>已看</title>
+               <decorationLabel>6</decorationLabel>
+            </listItemLockup>
+         </section>
+      </list>
+   </catalogTemplate>
+</document>
